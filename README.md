@@ -1,7 +1,7 @@
 <img align="center" width='100%' src="assets\robin.gif" alt="banner">
 <h1 href='https://github.com/Nida-16'>💎 Nida Shaikh</h1>
 
-*`Digital Craftsman (Developer/Data Scientist/Data Architect)`*
+*`Talk Data To Me `*
 
 Undergraduate, specializing in Data Science and Machine Learning, with a strong desire to expand my knowledge and explore emerging technologies. My primary goal is to find opportunities where I can utilize my skills and insights to solve practical, real-world problems.
 
