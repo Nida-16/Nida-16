@@ -1,4 +1,4 @@
-<img align="center" width='100%' src="assets\robin.gif" alt="banner">
+<img align="center" width='50%' src="assets\robin.gif" alt="banner">
 <h1 href='https://github.com/Nida-16'>💎 Nida Shaikh</h1>
 
 *`Talk Data To Me `*
