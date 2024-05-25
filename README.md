@@ -74,5 +74,3 @@ Undergraduate, specializing in Data Science and Machine Learning, with a strong 
 ---
 
 
-#### Join My Discord 🥹
-[<img src="assets\dc.png" width="10%">](https://discord.gg/4agJ9JZwYy)
